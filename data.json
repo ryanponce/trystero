@@ -1,0 +1,97 @@
+{
+  "weeks": [
+    {
+      "startDate": "2020-06-29",
+      "coffees": [
+        {
+          "name": "Uganda Rwenzori-Kisinga Station",
+          "origin": ["Uganda"],
+          "price": "15.00",
+          "proocess": "natural process SL-28/SL-3",
+          "elevationStart": "2100",
+          "elevationEnd": "2100",
+          "flavors": ["raspberry", "mulled wine"],
+          "isNew": false,
+          "isDecaf": false
+        },
+        {
+          "name": "Costa Rica Jaguar Tarrazú",
+          "origin": ["Costa Rica"],
+          "price": "17.00",
+          "proocess": "honey process Caturra/Catuai",
+          "elevationStart": "1200",
+          "elevationEnd": "1750",
+          "flavors": ["raspberry", "mango", "caramel"],
+          "isNew": true,
+          "isDecaf": false
+        },
+        {
+          "name": "Democratic Republic of Congo Umoja",
+          "origin": ["Democratic Republic of Congo"],
+          "price": "19.00",
+          "proocess": "washed process bourbon",
+          "elevationStart": "1500",
+          "elevationEnd": "2000",
+          "flavors": ["cherry", "pineapple", "vanilla"],
+          "isNew": false,
+          "isDecaf": false
+        },
+        {
+          "name": "Vietnam Lotus SHG",
+          "origin": ["Vietnam"],
+          "price": "10.00",
+          "proocess": "washed process Catimor",
+          "elevationStart": "1400",
+          "elevationEnd": "1500",
+          "flavors": ["chocolate", "caramel", "walnut"],
+          "isNew": false,
+          "isDecaf": false
+        },
+        {
+          "name": "Brazil Planalto da Bahia Jazblu Peaberry",
+          "origin": ["Brazil"],
+          "price": "10.00",
+          "proocess": "washed process Yellow and Red Catuai",
+          "elevationStart": "950",
+          "elevationEnd": "950",
+          "flavors": ["chocolate", "peanut butter"],
+          "isNew": false,
+          "isDecaf": false
+        },
+        {
+          "name": "Colombia Patroness",
+          "origin": ["Colombia"],
+          "price": "10.00",
+          "proocess": "washed process Dos Mil & Castillo",
+          "elevationStart": "1700",
+          "elevationEnd": "2000",
+          "flavors": ["cherry", "chocolate"],
+          "isNew": false,
+          "isDecaf": false
+        },
+        {
+          "name": "Lot 49",
+          "origin": ["Guatemala", "Rwanda", "Sumatra"],
+          "price": "17.00",
+          "proocess": "washed process Dos Mil & Castillo",
+          "elevationStart": null,
+          "elevationEnd": null,
+          "flavors": ["dark chocolate", "cherry", "fig", "honey"],
+          "isNew": false,
+          "isDecaf": false
+        },
+        {
+          "name": "Decaf Colombia Jerico EA Sugarcane",
+          "origin": ["Colombia"],
+          "price": "17.00",
+          "proocess": "washed process Dos Mil/Caturra/Castillo (then EA process decaf)",
+          "elevationStart": null,
+          "elevationEnd": null,
+          "flavors": ["milk chocolate", "vanilla"],
+          "isNew": "false",
+          "isDecaf": true
+        }
+      ]
+    }
+  ]
+}
